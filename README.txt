@@ -1,1 +1,1 @@
-run q r.k to generate r4.k (for kdb+) or r6.k
+run q r6.k to generate a new version
